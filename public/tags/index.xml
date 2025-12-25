@@ -2,109 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on We launch on Friday</title>
-    <link>https://rtjom.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on We launch on Friday</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Oct 2021 10:59:09 +0300</lastBuildDate><atom:link href="https://rtjom.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 10:59:09 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>summary</title>
-      <link>https://rtjom.com/tags/summary/</link>
+      <title>Summary</title>
+      <link>http://localhost:1313/tags/summary/</link>
       <pubDate>Sat, 09 Oct 2021 10:59:09 +0300</pubDate>
-      
-      <guid>https://rtjom.com/tags/summary/</guid>
+      <guid>http://localhost:1313/tags/summary/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>travel</title>
-      <link>https://rtjom.com/tags/travel/</link>
+      <title>Travel</title>
+      <link>http://localhost:1313/tags/travel/</link>
       <pubDate>Sat, 09 Oct 2021 10:59:09 +0300</pubDate>
-      
-      <guid>https://rtjom.com/tags/travel/</guid>
+      <guid>http://localhost:1313/tags/travel/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mtb</title>
-      <link>https://rtjom.com/tags/mtb/</link>
+      <title>Mtb</title>
+      <link>http://localhost:1313/tags/mtb/</link>
       <pubDate>Mon, 31 May 2021 10:11:35 +0300</pubDate>
-      
-      <guid>https://rtjom.com/tags/mtb/</guid>
+      <guid>http://localhost:1313/tags/mtb/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>personal experience</title>
-      <link>https://rtjom.com/tags/personal-experience/</link>
+      <title>Personal Experience</title>
+      <link>http://localhost:1313/tags/personal-experience/</link>
       <pubDate>Mon, 08 Mar 2021 10:17:58 +0200</pubDate>
-      
-      <guid>https://rtjom.com/tags/personal-experience/</guid>
+      <guid>http://localhost:1313/tags/personal-experience/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>quotes</title>
-      <link>https://rtjom.com/tags/quotes/</link>
+      <title>Quotes</title>
+      <link>http://localhost:1313/tags/quotes/</link>
       <pubDate>Thu, 18 Feb 2021 21:01:51 +0200</pubDate>
-      
-      <guid>https://rtjom.com/tags/quotes/</guid>
+      <guid>http://localhost:1313/tags/quotes/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>thoughts</title>
-      <link>https://rtjom.com/tags/thoughts/</link>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/tags/thoughts/</link>
       <pubDate>Thu, 18 Feb 2021 21:01:51 +0200</pubDate>
-      
-      <guid>https://rtjom.com/tags/thoughts/</guid>
+      <guid>http://localhost:1313/tags/thoughts/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>algorithms</title>
-      <link>https://rtjom.com/tags/algorithms/</link>
+      <title>Algorithms</title>
+      <link>http://localhost:1313/tags/algorithms/</link>
       <pubDate>Sun, 10 Jan 2021 20:24:51 +0200</pubDate>
-      
-      <guid>https://rtjom.com/tags/algorithms/</guid>
+      <guid>http://localhost:1313/tags/algorithms/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>essay</title>
-      <link>https://rtjom.com/tags/essay/</link>
+      <title>Essay</title>
+      <link>http://localhost:1313/tags/essay/</link>
       <pubDate>Sun, 10 Jan 2021 20:24:51 +0200</pubDate>
-      
-      <guid>https://rtjom.com/tags/essay/</guid>
+      <guid>http://localhost:1313/tags/essay/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>manipulation</title>
-      <link>https://rtjom.com/tags/manipulation/</link>
+      <title>Manipulation</title>
+      <link>http://localhost:1313/tags/manipulation/</link>
       <pubDate>Sun, 10 Jan 2021 20:24:51 +0200</pubDate>
-      
-      <guid>https://rtjom.com/tags/manipulation/</guid>
+      <guid>http://localhost:1313/tags/manipulation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>city walks</title>
-      <link>https://rtjom.com/tags/city-walks/</link>
+      <title>City Walks</title>
+      <link>http://localhost:1313/tags/city-walks/</link>
       <pubDate>Sun, 15 Mar 2020 22:34:22 +0200</pubDate>
-      
-      <guid>https://rtjom.com/tags/city-walks/</guid>
+      <guid>http://localhost:1313/tags/city-walks/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>startups</title>
-      <link>https://rtjom.com/tags/startups/</link>
+      <title>Startups</title>
+      <link>http://localhost:1313/tags/startups/</link>
       <pubDate>Tue, 23 Oct 2018 10:39:12 +0200</pubDate>
-      
-      <guid>https://rtjom.com/tags/startups/</guid>
+      <guid>http://localhost:1313/tags/startups/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
