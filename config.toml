@@ -1,5 +1,5 @@
 baseURL = "https://rtjom.com/"
-languageCode = "en-us"
+locale = "en-us"
 title = "We launch on Friday"
 theme = "hugo-lithium-theme"
 
