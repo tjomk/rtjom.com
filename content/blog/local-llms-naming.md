@@ -1,8 +1,9 @@
 ---
 title: "Local LLMs: Naming"
 date: 2026-09-20T10:46:18+03:00
-draft: true
 ---
+<center><img src="/images/local-llms-naming.jpg" alt="What's your name, Gemma?" /></center>
+
 My first introduction to local large language models was about a year ago when I tried to look into the coding models. Having used Claude Code
 as my daily tool the quality of the local models was really bad. They were no good for anything. I failed to come up with a good enough use-case.
 Some engineers suggested to use it for commit messages or pull request description. But why? I could also write PR description or commit message.
