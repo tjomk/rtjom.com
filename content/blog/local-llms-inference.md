@@ -51,8 +51,8 @@ Apple says that my memory bandwidth is at around 150GB/s.
 
 As the [previous post](/blog/2026/09/local-llms-naming/) explained, a mixture of experts (MoE) model only activates a part of its parameters
 for each token, while a dense model uses all of them. This offers a considerable improvement in speed on the same hardware. Using the same
-math as above: 26B x 0.5 byte = 13GB per token pass. We then use memory bandwidth 13GB ÷ 150GB/s ≈ 86.7ms/token which translates into 11.5
-tokens/sec as the theoretical maximum that is almost 6.5x slower.
+math as above: 4B active params x 0.5 byte = 2GB per each token pass. Now taking the memory bandwidth into account we get 2GB / 150GB/s ≈ 13.3 ms/tok
+which is 1000 / 13.3 ≈ 75 tok/s.
 
 Let's also calculate this for a dense model, Qwen3.8-27B-4bit which averaged 6 tok/s: 27B params x 0.5 byte = 13.5GB per token pass.
 We again use memory bandwidth to get the theoretical token generation speed: 13.5GB / 150GB/s ≈ 90 ms/tok which translates to 11 tok/s.
